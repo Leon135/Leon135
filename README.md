@@ -17,7 +17,7 @@ I am a developer, programmer and designer. I like to learn new things!
 
 
 ## Skills  
-<table><tr><td valign="top" width="40%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -31,7 +31,7 @@ I am a developer, programmer and designer. I like to learn new things!
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="33%">
 
 
 
@@ -41,7 +41,7 @@ I am a developer, programmer and designer. I like to learn new things!
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="33%">
 
 
 
@@ -57,7 +57,7 @@ I am a developer, programmer and designer. I like to learn new things!
 
 
 ## Design and graphics  
-<table><tr><td valign="top" width="40%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -67,7 +67,7 @@ I am a developer, programmer and designer. I like to learn new things!
 - Affinity Photo  
 
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="33%">
 
 
 
@@ -75,7 +75,7 @@ I am a developer, programmer and designer. I like to learn new things!
 - Blender  
 
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="33%">
 
 
 
