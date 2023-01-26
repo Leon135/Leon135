@@ -59,17 +59,25 @@ I am a developer, programmer and designer. I like to learn new things!
 ## Design and graphics  
 <table><tr><td valign="top" width="33%">
 
+
+
 ### 2D  
 - Inkscape
 - Canva
 - Affinity Photo  
 
+
 </td><td valign="top" width="33%">
+
+
 
 ### 3D  
 - Blender  
 
+
 </td><td valign="top" width="33%">
+
+
 
 ### Video and audio  
 - Davinci resolve
