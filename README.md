@@ -57,7 +57,7 @@ I am a developer, programmer and designer. I like to learn new things!
 
 
 ## Design and graphics  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="38%">
 
 
 
