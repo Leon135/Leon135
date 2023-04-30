@@ -10,55 +10,6 @@
 
 
 ## About me  
-I am a developer, programmer and designer. I like to learn new things!  
-  
+I am a developer, programmer and designer. I like to learn new things!
 
-<br/>  
-
-
-
-
-### Programming Languages
-- Python
-- C
-- C#
-- C++
-- Bash
-
-
-
-### Tools  
-- Linux
-- Github
-
-
-
-
-### Electronics  
-- Arduino
-
-
-
-## Design and graphics  
-
-### 2D  
-- Inkscape
-- Canva
-- Affinity Photo  
-
-
-
-
-
-### 3D  
-- Blender  
-
-
-### Video and audio  
-- Davinci resolve
-- Premiere Pro
-- After effects  
-
-
-<br />
-
+<br/>
