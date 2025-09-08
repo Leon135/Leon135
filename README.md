@@ -7,7 +7,3 @@
   
 
 <br/>  
-
-
-## About me  
-I am a developer, programmer and designer. I like to learn new things!
